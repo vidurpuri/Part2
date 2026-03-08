@@ -1,0 +1,11 @@
+'''
+What kind of data is missing in data : 
+1. NaN(not a number)
+2. None ( used for objects type)
+
+
+how to detect if data is missing ?
+Use isnull()
+True = Value is missing
+False = Value is present
+'''
